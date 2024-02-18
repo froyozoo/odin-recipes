@@ -6,7 +6,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Verdana, sans-serif;
     hyphens: auto;
     text-align: justify;
-    font-size: 48px;
+    font-size: 54px;
 }
 
 img {
@@ -23,6 +23,7 @@ img {
 .body-container {
     width: 960px;
     margin: auto;
+    border: 2px solid white;
 }
 
 .description {
@@ -78,11 +79,11 @@ ol {
 
 ul,
 ol {
-    padding-left: 40px;
+    padding-left: 62px;
 }
 
 ol li {
-    margin-bottom: 14px;
+    margin-bottom: 28px;
 }
 
 ul {
@@ -90,5 +91,6 @@ ul {
 }
 
 .all-lists {
-    padding-left: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
