@@ -6,6 +6,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Verdana, sans-serif;
     hyphens: auto;
     text-align: justify;
+    font-size:28px;
 }
 
 img {
@@ -15,19 +16,19 @@ img {
 
 .cropped {
     object-fit: cover;
-    height: 370px;
+    height: 600px;
     object-position: 0% 57%;
 }
 
 .body-container {
-    width: 550px;
+    width: 1000px;
     margin: auto;
 }
 
 .description {
     margin:auto;
     text-align: center;
-    width: 420px;
+    width: 750px;
     hyphens: none;
 }
 
@@ -38,8 +39,16 @@ body .heading {
 
 h1.heading {
     text-align: center;
-    font-size: 46px;
+    font-size: 80px;
     color:rgb(58, 0, 0);
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 38px;
 }
 
 p,
@@ -52,7 +61,7 @@ ol,
 .main-list {
     text-align: center;
     list-style: none;
-    font-size: 24px;
+    font-size: 42px;
     padding-left: 0;
 }
 
@@ -64,14 +73,14 @@ ol,
 p,
 ul,
 ol {
-    margin-bottom: 44px;
+    margin-bottom: 64px;
 }
 
 ul,
 ol {
-    padding-left: 20px;
+    padding-left: 33px;
 }
 
 ol li {
-    margin-bottom: 10px;
+    margin-bottom: 14px;
 }
