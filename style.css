@@ -20,6 +20,14 @@ h1 {
     text-align: center;
 }
 
+#main-page {
+    background-color: rgb(255, 245, 251);
+}
+
+#main-page .heading {
+    text-decoration:transparent;
+}
+
 .main-list {
     list-style: none;
     font-size: 40px;
