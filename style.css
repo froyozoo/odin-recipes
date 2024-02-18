@@ -1,0 +1,78 @@
+* {
+    background-color: ivory;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Verdana, sans-serif;
+    hyphens: auto;
+    text-align: justify;
+}
+
+img {
+    width: 500px;
+    margin: auto;
+    display: block;
+}
+
+.cropped {
+    object-fit: cover;
+    height: 370px;
+    object-position: 0% 57%;
+}
+
+.body-container {
+    width: 550px;
+    margin: auto;
+}
+
+.description {
+    margin:auto;
+    text-align: center;
+    width: 420px;
+    hyphens: none;
+}
+
+body .heading {
+    font-family: system-ui;
+    color: rgba(13, 53, 15, 0.8);
+}
+
+h1.heading {
+    text-align: center;
+    font-size: 46px;
+    color:rgb(58, 0, 0);
+}
+
+p,
+ul,
+ol,
+.main-list {
+    line-height: 1.5;
+}
+
+.main-list {
+    text-align: center;
+    list-style: none;
+    font-size: 24px;
+    padding-left: 0;
+}
+
+.main-list a {
+    text-decoration: none;
+    color: rgb(14, 0, 78);
+}
+
+p,
+ul,
+ol {
+    margin-bottom: 44px;
+}
+
+ul,
+ol {
+    padding-left: 20px;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
