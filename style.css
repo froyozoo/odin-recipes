@@ -6,7 +6,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Verdana, sans-serif;
     hyphens: auto;
     text-align: justify;
-    font-size:28px;
+    font-size: 28px;
 }
 
 img {
@@ -21,14 +21,14 @@ img {
 }
 
 .body-container {
-    width: 1000px;
+    width: 920px;
     margin: auto;
 }
 
 .description {
-    margin:auto;
+    margin: auto;
     text-align: center;
-    width: 750px;
+    width: 760px;
     hyphens: none;
 }
 
@@ -40,7 +40,7 @@ body .heading {
 h1.heading {
     text-align: center;
     font-size: 80px;
-    color:rgb(58, 0, 0);
+    color: rgb(58, 0, 0);
 }
 
 h2 {
