@@ -4,6 +4,7 @@ body {
     hyphens: auto;
     text-align: justify;
     font-size: 20px;
+    box-sizing: border-box;
 }
 
 ul,
@@ -46,7 +47,6 @@ img,
 }
 
 img {
-    box-sizing: border-box;
     display: block;
 }
 
@@ -57,9 +57,9 @@ img {
 }
 
 .body-container {
-    width: auto;
     border: 28px solid rgb(231, 247, 196);
     padding-bottom: 4%;
+    max-width: 1000px;
 }
 
 .description,
